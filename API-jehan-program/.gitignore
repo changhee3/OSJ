@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 가상환경
+.venv/
+venv/
+env/
+
+# 환경 변수 (실제 키·웹훅 URL이 들어가므로 절대 커밋 금지)
+.env
+
+# 에디터 / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
